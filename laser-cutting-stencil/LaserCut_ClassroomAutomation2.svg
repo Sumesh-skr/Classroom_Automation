@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ClassroomAutomation2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.48882427"
+     inkscape:cx="157.52082"
+     inkscape:cy="574.84871"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11">
+      <path
+         id="rect1"
+         style="fill:none;stroke:#000000;stroke-width:0.298257"
+         d="M 84.890942,3.3517334 V 8.0475708 H 4.8880737 V 18.04231 20.501074 H 0.17518311 0.16329753 v 9.736357 H 4.8880737 v 7.512203 H 184.59028 v -7.512203 h 4.71289 v -2.482536 -7.253821 h -4.71289 V 18.04231 8.0475708 H 104.58741 V 3.3517334 Z" />
+      <path
+         id="rect2"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.29847"
+         d="m 182.30308,72.739746 v 4.702555 h -2.5001 -9.9534 v 80.001839 h -4.69584 v 19.69647 h 4.69584 v 80.00235 h 9.9534 2.5001 v 4.70256 0.0212 h 7.213 v -0.0212 h 2.50011 v -4.70256 h 12.53515 v -75.31943 h -0.007 -1.33945 -3.34347 v -4.68292 h -0.007 v -19.69647 h 0.007 v -4.6824 h 3.56051 1.12241 0.007 V 77.442301 h -12.53515 v -4.702555 h -2.50011 z" />
+      <path
+         id="rect4"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.301;stroke-dasharray:none;stroke-opacity:1"
+         d="M 169.8497,72.450294 H 94.855824 v 4.705113 H 75.144884 V 72.450294 H 0.15049449 V 157.44432 H 4.8613245 v 19.71095 H 0.15049449 v 84.99429 H 75.144884 v -4.71134 h 19.71094 v 4.71134 H 169.8497 v -84.99429 h -4.71083 v -19.71095 h 4.71083 z" />
+      <path
+         id="rect5"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.299446;stroke-dasharray:none;stroke-opacity:1"
+         d="M 75.144884,77.160057 V 72.450294 H 0.14946149 V 59.996829 H 4.9434845 V 50.203112 H 0.14946149 V 37.749609 H 169.85021 v 12.453503 h -4.79402 v 9.793717 h 4.79402 V 72.450294 H 94.854792 v 4.709763 z" />
+      <path
+         id="rect5-6"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.299446;stroke-dasharray:none;stroke-opacity:1"
+         d="m 75.145143,257.43977 v 4.70979 H 0.14972299 v 12.4535 H 4.943753 v 9.79372 H 0.14972299 v 12.4535 H 169.85047 v -12.4535 h -4.79402 v -9.79372 h 4.79402 v -12.4535 H 94.855053 v -4.70979 z" />
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.301001;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6"
+         width="11"
+         height="9"
+         x="153.854"
+         y="262.16644" />
+      <g
+         id="g6"
+         transform="translate(-0.59835198,0.01641631)">
+        <text
+           xml:space="preserve"
+           style="font-size:15.0432px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.452802;stroke-dasharray:none;stroke-opacity:1"
+           x="-89.741974"
+           y="-252.68475"
+           id="text6"
+           transform="scale(-0.92257126,-1.0839271)"><tspan
+             sodipodi:role="line"
+             id="tspan6"
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.4528"
+             x="-89.741974"
+             y="-252.68475">CSE (IoT) - 4th SEM</tspan></text>
+      </g>
+      <g
+         id="g6-0"
+         transform="matrix(0,-0.71056107,0.6666667,0,0.12812272,211.82661)">
+        <text
+           xml:space="preserve"
+           style="font-size:14.1952px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.427276;stroke-dasharray:none;stroke-opacity:1"
+           x="-138.2765"
+           y="-261.04333"
+           id="text6-5"
+           transform="scale(-0.92208433,-1.0844995)"><tspan
+             sodipodi:role="line"
+             id="tspan6-2"
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.427274"
+             x="-138.2765"
+             y="-261.04333">SUMESH SARKAR</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.427274"
+             x="-138.2765"
+             y="-243.29933"
+             id="tspan7">SHIVAM TIWARI</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:13.8932px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.418186;stroke-dasharray:none;stroke-opacity:1"
+           x="-5.6741915"
+           y="-255.34207"
+           id="text6-5-5"
+           transform="scale(-0.90246795,-1.1080726)"><tspan
+             sodipodi:role="line"
+             id="tspan6-2-0"
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.418184"
+             x="-5.674192"
+             y="-255.34207">CHETAN CHAUHAN</tspan><tspan
+             sodipodi:role="line"
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.418184"
+             x="-5.6741929"
+             y="-237.97557"
+             id="tspan7-3">ANSHUL CHAUHAN</tspan></text>
+        <ellipse
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.435879;stroke-dasharray:none;stroke-opacity:1"
+           id="path7"
+           cx="234.83861"
+           cy="9.8743811"
+           transform="rotate(90)"
+           rx="3.643863"
+           ry="3.4122095" />
+        <ellipse
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.435879;stroke-dasharray:none;stroke-opacity:1"
+           id="path7-5"
+           cx="234.83861"
+           cy="-135.22339"
+           transform="rotate(90)"
+           rx="3.643863"
+           ry="3.4122095" />
+      </g>
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.261162;stroke-dasharray:none"
+         id="path1"
+         cx="147.01788"
+         cy="55.338165"
+         rx="7.3694186"
+         ry="7.3694191" />
+    </g>
+  </g>
+</svg>
