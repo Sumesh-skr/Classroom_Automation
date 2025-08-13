@@ -37,10 +37,11 @@ The system is designed to improve energy efficiency, enhance convenience, and pr
 
 ```
 Classroom-Automation/
-├── firmware/            # NodeMCU Arduino code
-├── app/                 # MIT App Inventor .aia file
-├── firebase-setup/      # Database rules and structure
-├── docs/                # Circuit diagrams, images, documentation
+├── arduino_code/main/        # NodeMCU Arduino main code
+├── firebase-setup/           # Real-time Database structure
+├── images/                   # Circuit diagrams, images
+├── laser-cutting-stencil/    # SVG Stencil for Laser-Cut Box
+├── mobile-app-setup-mit/     # Set-up images of MIT App Inventor
 └── README.md
 ```
 
@@ -50,7 +51,7 @@ Classroom-Automation/
 
 > The circuit connects NodeMCU with a DHT11 sensor, PIR sensor, and relay modules for controlling classroom appliances.
 
-![Circuit Diagram](docs/circuit-diagram.png)
+![Circuit Diagram](images/Basic_Circuit.jpg)
 
 ---
 
